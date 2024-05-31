@@ -1,0 +1,21 @@
+.bb{
+    background-color: #4F6F52;
+    
+}
+.naa{
+    background-color: #B9B4C7;
+}
+
+body .bb{
+    height: 20px;
+}
+.judul{
+    font-size: 25px;
+    color: #fff;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    font-weight: 600;
+}
